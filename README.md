@@ -1,3 +1,4 @@
+![logo](https://github.com/mahdin70/mahdin70/blob/main/Github%20banner.gif)
 <h1 align="center">Hi 👋, I'm Mukit Mahdin</h1>
 <h3 align="center">An Aspiring Software Engineer and Machine Learning Enthusiast</h3>
 
