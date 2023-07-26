@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Node, Android, Machine Learning, Data Preprocessing**
 
-- 📫 How to reach me **mahdin.mukit248@gmail.com**
+- 📫 Reach Me at : **mahdin.mukit248@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
